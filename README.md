@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate on anything related to Computer Vision.
 - ⚡ Fun fact: BTW, I use Arch Linux!!!
 
+ ⚡⚡"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." - Linus Torvalds⚡⚡
 ## 📈 My GitHub Stats:
 
 ![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=shashank2806&count_private=true&show_icons=true&theme=dark)
