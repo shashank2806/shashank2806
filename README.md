@@ -1,11 +1,13 @@
 # Hi there, I am Shashank Shekhar - Data Scientist 👋
 
-## I am Self-Taught Programmer
-
 - 🔭 I’m currently working on simplifing tasks using Machine Learning @ [Celebal Technologies](https://celebaltech.com)!
+
 - 🌱 I’m currently learning to be a better Programmer!!
+
 - 👯 I’m looking to collaborate on anything related to Computer Vision.
+
 - ⚡ Fun fact: BTW, I use Arch Linux!!!
+
 
  ⚡⚡"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." - Linus Torvalds⚡⚡
 ## 📈 My GitHub Stats:
