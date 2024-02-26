@@ -1,10 +1,10 @@
 # Hi there, I am Shashank Shekhar - Data Scientist 👋
 
-- 🔭 I’m currently working on simplifing tasks using Machine Learning @ [Celebal Technologies](https://celebaltech.com)!
+- 🔭 I’m currently Training Machines @ [Celebal Technologies](https://celebaltech.com)!
 
-- 🌱 I’m currently learning to be a better Programmer!!
+- 🌱 Training new models in Computer Vision, NLP/LLMs, and Speech.
 
-- 👯 I’m looking to collaborate on anything related to Computer Vision.
+- 👯 I’m looking to collaborate on anything related to Computer Vision, LLMs.
 
 - ⚡ Fun fact: BTW, I use Arch Linux!!!
 
